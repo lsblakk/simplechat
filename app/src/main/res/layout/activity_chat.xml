@@ -20,7 +20,8 @@
         android:paddingBottom="10dp"
         android:paddingLeft="0dp"
         android:paddingRight="0dp"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
         <EditText
             android:id="@+id/etMessage"
             android:layout_toLeftOf="@+id/btSend"
